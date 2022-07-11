@@ -1,0 +1,13 @@
+Comandos básicos Git para Windows:
+
+Para listar: dir
+Para navegar entre pastas: cd
+Para retroceder um nível (voltar uma pasta): cd..
+Para limpar o terminal: cls ou Ctrl + l
+Para autocompletar uma palavra: Tab
+Para criar uma pasta: mkdir + nome da pasta
+Para printar algo na tela: echo + texto
+Para redirecionar fluxo para arquivo: echo + texto > texto.txt
+Para deletar arquivos dentro de uma pasta: del + nome 
+Para deletar um repositório: rmdir + nome /s /q rm -rf nome/
+Para navegar entre comandos já utilizados: "setinha pra cima"
